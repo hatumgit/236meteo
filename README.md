@@ -8,6 +8,8 @@ Simple meteorology website for the city of Pombal using the open-meteo API. Done
 
 Hosted: www.236meteo.tk
 
+Known flaws: Lack of more weathercode coditions to be precise on the icons. The icons showed may not always be represented by the real weather.
+
 @Credits:
 API: https://open-meteo.com/en
 Weathercode: https://www.jodc.go.jp/data_format/weather-code.html
